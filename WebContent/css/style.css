@@ -72,7 +72,7 @@ button {
 #footer {
     text-align: center;
 }
-#flush_success {
+#flush_error {
     width: 100%;
     padding-top: 28px;
     padding-left: 2%;
